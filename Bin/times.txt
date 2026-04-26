@@ -1,0 +1,83 @@
+BoardSize: 30x16 497
+BoardSize: 30x16 441 seconds
+BoardSize: 14x14 12 seconds
+BoardSize: 14x14 13 seconds
+BoardSize: 14x14 0 seconds
+BoardSize: 14x14 4 seconds
+BoardSize: 14x14 Mines: 5 6 seconds
+BoardSize: 14x14 Mines: 5 Time: 5 seconds
+BoardSize: 14x14 Mines: 5 Time: 0 seconds
+BoardSize: 14x14 Mines: 5 Time: 13 seconds
+BoardSize: 14x14 Mines: 5 Time: 9 seconds
+BoardSize: 14x14 Mines: 5 Time: 20 seconds
+BoardSize: 14x14 Mines: 5 Time: 0 seconds
+BoardSize: 14x14 Mines: 5 Time: 7 seconds
+BoardSize: 14x14 Mines: 5 Time: 12 seconds
+BoardSize: 14x14 Mines: 5 Time: 4 seconds
+BoardSize: 14x14 Mines: 5 Time: 9 seconds
+BoardSize: 30x16 Mines: 99 Time: 417 seconds
+BoardSize: 14x14 Mines: 5 Time: 6 seconds
+BoardSize: 14x14 Mines: 5 Time: 9 seconds
+BoardSize: 14x14 Mines: 5 Time: 9 seconds
+BoardSize: 14x14 Mines: 5 Time: 12 seconds
+BoardSize: 14x14 Mines: 25 Time: 56 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 5 seconds
+BoardSize: 14x14 Mines: 225 Time: 2 seconds
+BoardSize: 14x14 Mines: 225 Time: 4 seconds
+BoardSize: 14x14 Mines: 225 Time: 1 seconds
+BoardSize: 30x16 Mines: 99 Time: 299 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 4 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 5 Time: 6 seconds
+BoardSize: 14x14 Mines: 5 Time: 10 seconds
+BoardSize: 30x16 Mines: 99 Time: 436 seconds
+BoardSize: 30x16 Mines: 99 Time: 469 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 2 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 0 seconds
+BoardSize: 14x14 Mines: 225 Time: 2 seconds
+BoardSize: 14x14 Mines: 5 Time: 5 seconds
+BoardSize: 14x14 Mines: 5 Time: 5 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 22225 Time: 0 seconds
+BoardSize: 14x14 Mines: 9999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 9999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 9 Time: 0 seconds
+BoardSize: 14x14 Mines: 9 Time: 18 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds
+BoardSize: 14x14 Mines: 999999999 Time: 0 seconds

@@ -5,7 +5,10 @@
 *.VC.VC.opendb
 
 # Build output and intermediate files
-Bin/
+Bin/*
+!Bin/Images/
+!Bin/Images/**
+!Bin/times.txt
 Obj/
 x64/
 x86/
