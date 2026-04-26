@@ -1,0 +1,34 @@
+# Visual Studio cache/options
+.vs/
+*.user
+*.VC.db
+*.VC.VC.opendb
+
+# Build output and intermediate files
+Bin/
+Obj/
+x64/
+x86/
+Debug/
+Release/
+
+# MSVC generated artifacts
+*.obj
+*.ilk
+*.ipdb
+*.iobj
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# CMake and other generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
